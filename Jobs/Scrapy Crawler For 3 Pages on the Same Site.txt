@@ -1,0 +1,10 @@
+Scrapy Crawler For 3 Pages on the Same Site
+
+Hi there, 
+
+Thank you for the job post regarding Scrapy crawler for 3 pages on the same site. I understand that the crawler needs to crawl the pages in every 15 minutes and keep the data in MongoDB. What is the URL of the site that you want to crawl? Where will you host the crawler? I am an automation and scraping expert and I can deliver the job for you.
+
+I welcome the opportunity to work on this project for you. May I suggest an initial call to understand the project better an discuss a timeline?
+
+Best regards,
+Rafsan Billah

@@ -1,0 +1,10 @@
+Programmer for a script in a browser on Amazon
+
+Hi there,
+
+Thank you for the job post regarding Programmer for a script in a browser on Amazon. I understand, you want to automate string searching on Amazon.com. The program will go to Amazon and will search for a particular string in products. It needs to click on the products with well defined strings. What is your targeted string? What is the targeted product category?
+
+I welcome the opportunity to work on this project. I have an established track record in automation and scripting(Check my portfolio for clear view). May I suggest a call to understand your requirements better and discuss a timeline?
+
+Best regards,
+Rafsan Billah

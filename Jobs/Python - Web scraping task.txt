@@ -1,0 +1,12 @@
+Python - Web scraping task
+
+Hi there,
+
+Thanks for the job post regarding Python- web scraping task. I understand, you want to scrape a website with company profiles. You want to scrape name, address, location, review text and ratings. What is the URL of the website? How do you want the data delivered? Is there any bot protection visible on the site like captcha?
+
+(For the demo of my work please check my portfolio) 
+
+I welcome the opportunity to work on this project for you. May I suggest a call (Zoom or Skype) so that we can discuss the requirements and timeline with you in more detail?
+
+Kind regards,
+Rafsan Billah

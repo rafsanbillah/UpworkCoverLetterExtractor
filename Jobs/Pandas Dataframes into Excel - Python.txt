@@ -1,0 +1,10 @@
+Pandas Dataframes into Excel - Python
+
+Hi there,
+
+Thank yiu for the job post regarding Pandas Dataframes into Excel - Python. I understand, you want a program that will take a list of strings then call API using those strings as parameter and store the result in different Excel sheet using Pandas. Which API do you want to call? Where will you host the program?
+
+I welcome the opportunity to work on this project. Let's have a call to discuss the project more and a timeline. Thanks.
+
+Best regards,
+Rafsan Billah

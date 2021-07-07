@@ -1,0 +1,10 @@
+Build a Web Scraper for my Small Business
+
+Hi there,
+
+Thank you for the job post regarding web scraper for your business. I understand that you want a scraper to scrape Kijiji and Facebook marketplace for products with specific keywords and if available notify you via email. Where do you want to host the scraper?
+
+I welcome the opportunity to work on this project. May I suggest a call to understand the project and discuss a timeline?
+
+Best regards,
+Rafsan Billah
