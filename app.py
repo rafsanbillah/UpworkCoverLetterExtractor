@@ -38,14 +38,14 @@ class Bot:
     self.driver = webdriver.Chrome(executable_path=path, options=options)
 
     # Get Some Cookies First
-    # sites = [
-    #   'https://google.com/',
-    #   'https://youtube.com/',
-    #   'https://yahoo.com/',
-    # ]
-    # for site in sites:
-    #   self.driver.get(site)
-    #   time.sleep(6)
+    sites = [
+      'https://google.com/',
+      'https://youtube.com/',
+      'https://yahoo.com/',
+    ]
+    for site in sites:
+      self.driver.get(site)
+      time.sleep(6)
 
   def login(self):
     self.driver.get('https://www.upwork.com/ab/account-security/login')
@@ -116,8 +116,8 @@ class Bot:
 
 def main():
   # User Credntials
-  username = 'rafsanbillah@gmail.com'
-  password = 'RYT.Yeasin@@010'
+  username = ''
+  password = ''
 
   # Bot
   b = Bot(username=username, password=password)
